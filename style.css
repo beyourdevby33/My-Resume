@@ -17,3 +17,8 @@ p[class="about"] {
 ol[class=none] {
     font-weight: normal;
 }
+.photo {
+    float: left;
+    margin: 5px;
+    height: 210px;
+}
