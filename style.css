@@ -18,7 +18,7 @@ ol[class=none] {
     font-weight: normal;
 }
 .photo {
-    float: left;
+    float: right;
     margin: 5px;
     height: 210px;
 }
