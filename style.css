@@ -1,0 +1,19 @@
+.jobtitle {
+    font-weight: bold;
+    font-style: italic;
+}
+p[class="about"] {
+    font-style: italic;
+}
+.footer {
+    font-size: x-small;
+}
+.list {
+    font-weight: bold;
+}
+.endorsements {
+    font-size: smaller;
+}
+ol[class=none] {
+    font-weight: normal;
+}
